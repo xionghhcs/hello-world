@@ -1,0 +1,3 @@
+# ignore some file,do not add to server
+*.csv
+
